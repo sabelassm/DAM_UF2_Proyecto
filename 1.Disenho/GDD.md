@@ -2,37 +2,41 @@
 
 ## PRESENTACIÓN/RESUMEN
 
-- Título. 
-- Concepto: descripción breve (un párrafo) de las ideas principales del juego
-- Género (puede ser más de uno)
-- Público (target audience)
-- Plataforma (PC, smartphone, tablet,...)
+- Sheldon´s Journey 
+- Concepto: inspirado en el conocido juego Zelda, Sheldon´s Journey es un pequeño juego basado en distintos niveles, en los que tendremos como objetivo recolectar las gemas protectoras de la aldea de los gatos.
+- Género: acción/aventura
+- Público : todos los públicos
+- Plataforma: PC
 
 
 ## GAMEPLAY
 
 ### Objetivos
 
-Descripción de cuáles son los objetivos principales (y secundarios si los hay) del juego
+Los orcos han arrasado una aldea de gatos.
+Uno de los pocos supervivientes le pide ayuda al jugador para que este reúna todas las gemas protectoras de la aldea , las cuales fueron robadas por los orcos.
 
 #### Jugabilidad
 
-Descripción de la interacción y experiencia del jugador. Sistemas de premios o recompensas. Puzzles,...
+El jugador puede recolectar monedas en todos los niveles , estas podrán ser usadas para comprar objetos en una pequeña tienda que encontrará en la pantalla inicial del juego.
+Además el usuario no podrá avanzar de nivel a menos que haya completado los niveles anteriores.
 
 ### Progresión
 
-Avance entre las distintas fases (si las hay) del juego.
+El juego está basado en niveles , los cuales hay que completar para poder avanzar al siguiente.
 
 ### GUI
 
-Descripción del GUI y de la información mostrada al jugador durante el desarrollo de la partida
+Durante la partida en la esquina superior izquierda se mostrará un panel en el que aparecen el número de monedas recogidas por el jugador y también los objetos obtenidos.
+En la esquina superior derecha tendrá otro panel indicando las vidas restantes.
+Tras la muerte del jugador aparecerá un pequeño panel que permitirá al jugador: reiniciar el nivel, volver a la pantalla principal o salir del juego.
 
 ## MECÁNICAS
 
-- Reglas: condiciones de victoria, condiciones de pérdida, reglas de combate,...
-- Interacción: controles e interacción del jugador con el personaje, acciones posibles, interacción con otros elementos o personajes,...
-- Puntaje: sistema de puntaje
-- Dificultad: parámetros de dificultad progresiva
+- Reglas:  para pasar el juego el jugador deberá reunir todas las gemas. Si un orco le pega al jugador ,este perderá una vida de las 3 totales y si las pierde todas morirá.Si el jugador pega con su espada a un orco, este desaparecerá de la pantalla.
+- Interacción: el jugador se puede mover con las flechas o con las teclas "w,a,s,d", puede atacar usando click derecho y puede interactuar con los NPCs tan solo con acercarse a ellos.
+- Puntaje: por cada moneda normal atrapada se añadirá 1 de puntuación en el panel de monedas y por cada moneda especial atrapada se añadirán 10.
+- Dificultad: cada nivel es más difícil que el anterior debido a la adicción de más enemigos y más veloces.
 
 ## ELEMENTOS DEL VIDEOJUEGO
 
