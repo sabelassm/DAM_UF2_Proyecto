@@ -1,5 +1,7 @@
 # GDD
 
+(Cubrir según necesidades)
+
 ## PRESENTACIÓN/RESUMEN
 
 - Título. 
@@ -7,7 +9,6 @@
 - Género (puede ser más de uno)
 - Público (target audience)
 - Plataforma (PC, smartphone, tablet,...)
-
 
 ## GAMEPLAY
 

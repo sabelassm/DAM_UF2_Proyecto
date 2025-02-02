@@ -1,9 +1,10 @@
-# Proyecto DAM - UF02
+# Proyecto UF02 DAM
 
 El proyecto consistirá en el **diseño** de un videojuego y su **implementación** posterior usando el motor **Unity**.
+
 La idea principal es demostrar que se han adquirido los conocimientos presentados a lo largo de la unidad formativa. Por tanto, se trata de un proyecto **individual** y **original**. Esto último no implica que no puedan ser adaptaciones simples de proyectos reales. 
 
-De igual modo, pueden ser variaciones/ampliaciones sobre los proyectos realizados durante el curso, siempre y cuando incorporen cambios sustanciales sobre el arte, mecánicas, *gameplay*,... y no se limiten a ser meras copias de los ya vistos. Es decir, pueden utilizarse como punto de partida, pero teniendo en cuenta que la originalidad de la propuesta es un factor a tener en cuenta en la calificación.
+De igual modo, pueden ser variaciones/ampliaciones sobre los proyectos realizados durante el curso, siempre y cuando incorporen cambios sustanciales sobre el arte, mecánicas, *gameplay*,... y no se limiten a ser meras copias de los ya vistos. Es decir, pueden utilizarse como **punto de partida**, pero teniendo en cuenta que la **originalidad** de la propuesta es un factor a tener en cuenta en la calificación.
 
 En todo caso, se trata de un proyecto **SIMPLE** y **COMPLETO**. Es decir, que seáis capaces tanto de diseñarlo en su conjunto como de implementarlo de principio a fin. Es más importante que os centréis en tener un producto cerrado, aún siendo simple, que en añadir mecánicas complejas.
 
@@ -48,10 +49,8 @@ El videojuego se implementará usando el motor **Unity** en cualquiera de sus ve
 Se realizará una presentación que durará unos 5-7 minutos indicando los siguientes puntos y realizando una pequeña demo del videjuego:
 - **Presentación**: Título del videojuego
 - **Descripción**: Breve descripción de vuestro proyecto. Básicamente un resumen de las secciones de presentación, gameplay y mecánicas del GDD. Es decir: concepto, género, plataforma y público target, descripción general, etc. 
-
 Podéis comentar cualquier otra información relevante que consideréis. Por ejemplo, si estáis versionando otro juego, algún aspecto técnico particular que queráis resaltar, algún aspecto del arte, motivación para decantaros por este proyecto,...
 - **Demo**. Ejecución del videojuego.  
-- **Valoración**. Por último, de manera opcional, podéis hacer una valoración personal del proyecto en la que comentar aspectos del desarrollo como dificultades encontradas, conocimientos adquiridos,... o cualquier otro particular.
 
 En esta presentación se puede pedir que se modifique en ese momento algún parámetro particular del videojuego para comprobar la autoría del mismo.  
 

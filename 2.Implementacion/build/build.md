@@ -1,3 +1,3 @@
 # Build
 
-Entrega del ejecutable
+Entrega del ejecutable para plataforma Linux. Además de versión a Web.
